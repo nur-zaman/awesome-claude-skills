@@ -299,6 +299,12 @@ Confused about when to use Skills vs other Claude customization methods? Here's 
 **Use Case:** Reviewing open-source PRs as a maintainer without burying the author in nits
 **Stars:** ⭐⭐⭐
 
+#### git-recompose
+**Source:** [nur-zaman/git-recompose-skill](https://github.com/nur-zaman/git-recompose-skill) | **Verified:** ⏳
+**Description:** Recomposes messy git commits in an isolated worktree behind a mandatory review gate, never touching your original branch until you approve.
+**Use Case:** Cleaning up commit history before opening a pull request
+**Stars:** ⭐⭐⭐
+
 ---
 
 ### ⚙️ Development & Architecture
